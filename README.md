@@ -3,14 +3,15 @@
 - 👔 Trabalho atualmente como Assistente / Help Desk
 - 👨‍💻 Estudando C# e .NET
 <div style = "display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo826&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo826&hide_progress=false&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo826&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo826&hide_progress=false&theme=dracula"/>
 </div>
 
 ## Tecnologias que uso
 <div style="display: inline_block">
   <img align="center" alt="Marcelo-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Marcelo-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+  <img align="center" alt="Marcelo-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 <br/>
 
