@@ -3,8 +3,8 @@
 - 👔 Trabalho atualmente como Assistente / Help Desk
 - 👨‍💻 Estudando C# e .NET
 <div style = "display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo826&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo826&hide_progress=false&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo826&hide=contribs,prs&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo826&progress=true&theme=dracula"/>
 </div>
 
 ## Tecnologias que uso
