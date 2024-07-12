@@ -1,6 +1,6 @@
 ## Olá, eu sou o Lucas de Souza!!🖐️
 
-- 👨‍💻 Desenvolvedor da X-bits Estudando C# | REACT 
+- 👨‍💻 Desenvolvedor da X-bits C# | REACT | VUE
 <div style = "display: inline_block">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzalusca&hide=contribs,prs&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzalusca&progress=false&theme=dracula"/>
